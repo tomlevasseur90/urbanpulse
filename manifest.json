@@ -1,0 +1,10 @@
+{
+  "project": "Urban Pulse V2",
+  "version": "0.2",
+  "created_by": "tomlevasseur90",
+  "assets": [
+    { "path": "illustrations/scene01.svg", "desc": "Place des fêtes — motif A1" },
+    { "path": "textures/brick_tile.png", "desc": "Texture mur, saison été" }
+  ],
+  "notes": "journal: 'projets_crypto', 'Départ-avion-nov2025', 'test-portfolio-2025'" 
+}

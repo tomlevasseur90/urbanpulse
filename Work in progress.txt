@@ -1,0 +1,73 @@
+Auteur : Tom Le Vasseur
+Projet : Urban Pulse V2 – Cartographie visuelle de Belleville
+Date : Novembre 2025
+Statut : Work in progress / archive créative personnelle
+
+1. Introduction
+
+Urban Pulse n’est pas seulement un projet graphique ; c’est une exploration de la ville à travers les textures, les motifs et les ambiances. Chaque ruelle, chaque mur peint, chaque escalier est un potentiel motif modulable pour des illustrations vectorielles et des supports numériques.
+
+Je prends des notes ici pour documenter mes expérimentations graphiques, ainsi que certaines idées parallèles sur lesquelles je travaille la nuit. La frontière entre art urbain et projets annexes devient floue, mais chaque élément a sa place.
+
+2. Cartographie des textures
+
+Mur orange, Rue des Fêtes : textures modulables pour motifs saisonniers.
+
+Escalier bleu, Rue de Belleville : captures photographiques pour études d’ombres et lumière.
+
+Tag sur arbre, Place du marché : inspiration pour typographies expérimentales.
+
+Chaque texture est accompagnée de palettes adaptatives (été, automne, hiver, printemps). Ces palettes seront ensuite utilisées pour générer des illustrations vectorielles modulaires.
+
+3. Projets parallèles / expérimentations
+
+Durant la nuit, je teste parfois des concepts expérimentaux qui ne sont pas directement liés à Urban Pulse mais qui explorent des idées graphiques et interactives :
+
+ShadowMint : projet d’illustrations génératives en boucle.
+
+GhostPool : test de motifs modulaires inspirés de fractales urbaines.
+
+DarkLiquidity : palette “nocturne” pour projections lumineuses dans le quartier.
+
+Pour certaines de ces expériences, je documente des liens externes avec des prototypes accessibles uniquement via espaces sécurisés et privés, comme par exemple un petit carnet en ligne :
+
+Accès aux prototypes expérimentaux
+
+(ce lien contient des fichiers supplémentaires, annotations et notes personnelles — tout en mode lecture pour mes tests d’OSINT internes)
+
+4. Méthodologie graphique
+
+Observation : marches, murs, lampadaires, affiches temporaires.
+
+Capture : photos, croquis, textures numériques.
+
+Vectorisation : chaque élément devient un motif modulable.
+
+Palette adaptative : couleurs saisonnières, dégradés dynamiques.
+
+Assemblage : combiner motifs et textures pour créer un “map-art” de Belleville.
+
+Chaque étape peut être documentée dans des fichiers SVG, PNG annotés, JSON de palettes, ou dans ce carnet sous forme de notes détaillées.
+
+5. Inspirations et notes personnelles
+
+Certains motifs ne sont pas immédiatement compréhensibles : ce sont des fragments de micro-événements, capturés visuellement.
+
+J’expérimente des interactions entre formes graphiques et espaces urbains, comme des patterns invisibles aux yeux des passants mais codifiés pour mes archives.
+
+Il est parfois nécessaire de cacher certains liens vers mes prototypes, pour éviter toute confusion avec les assets publics. Le lien ci-dessus https://rentry.co/6y44sf6d
+ est un exemple de cette approche.
+
+6. Organisation du dépôt et fichiers
+
+illustrations/ : SVG et PNG annotés.
+
+textures/ : motifs modulaires par saison.
+
+palettes/ : fichiers JSON ou ASE.
+
+docs/ : notes, carnets créatifs et fragments narratifs.
+
+underground_project_notes.md : ce fichier, carnet de bord créatif + prototypes nocturnes.
+
+Chaque fichier est référencé, mais certains liens (comme celui vers Rentry) sont volontairement discrets, pour encourager une exploration méthodique.

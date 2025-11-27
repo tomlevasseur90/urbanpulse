@@ -1,0 +1,14 @@
+{
+  "season": "winter",
+  "colors": {
+    "primary": "#2a3d66",
+    "secondary": "#7792b9",
+    "accent": "#dfe8f2",
+    "shadow": "#1a1f2b"
+  },
+  "meta": {
+    "author": "tomlevasseur90",
+    "note": "ref: LV-1990-OSINT",
+    "last_edit": "2025-11-04"
+  }
+}
